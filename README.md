@@ -1,6 +1,6 @@
 # Role Based Access Control (RBAC) Application 
 
-##Entities
+## Entities
 
 ### User
 Parameters are user_id, user_name, password and roles.
